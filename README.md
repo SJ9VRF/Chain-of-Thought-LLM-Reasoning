@@ -3,6 +3,9 @@
 ## Overview
 A flexible, extensible framework for implementing Chain-of-Thought reasoning using language models.
 
+![output-onlinepngtools](https://github.com/user-attachments/assets/214ea520-42d5-439f-8c97-379678c53983)
+
+
 ## Features
 - Modular design with pluggable components
 - Support for multiple model providers
